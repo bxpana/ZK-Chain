@@ -1,0 +1,10 @@
+name: testchains
+l1_network: Localhost
+link_to_code: /Users/bxpana/Documents/GitHub/ZK-Chain/testchains/zksync-era
+bellman_cuda_dir: null
+chains: /Users/bxpana/Documents/GitHub/ZK-Chain/testchains/chains
+config: /Users/bxpana/Documents/GitHub/ZK-Chain/testchains/./configs/
+default_chain: zkchain1
+era_chain_id: 270
+prover_version: NoProofs
+wallet_creation: Localhost
